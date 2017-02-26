@@ -1,5 +1,11 @@
+////////////////////////////////////////////////////////////
+
+Implement Kruskal’s algorithm to find Minimum Spanning Tree
+
+////////////////////////////////////////////////////////////
+
 Assignment Description:
-Implement Kruskal�s algorithm to find Minimum Spanning Tree of an undirected graph, and evaluate its running time performance on a set of graph instances. 
+Implement Kruskal’s algorithm to find Minimum Spanning Tree of an undirected graph, and evaluate its running time performance on a set of graph instances. 
 Two multigraphs instances are included as sample input. 
 Task I: find the cost of MST given a graph file.
 Task II: Update the cost of MST given new edges to be added to the graph.
